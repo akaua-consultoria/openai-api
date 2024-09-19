@@ -11,10 +11,19 @@ Mas, antes de começar:
 pip install -r requirements.txt
 ```
 
+## API key
+
+Crie um arquivo .env com a sua API key:
+
+`.env`
+```
+OPENAI_API_KEY = AQUI-VAI-SUA-KEY-6728DG-EDGHD37
+```
+
 ## Arquivos
 1. [Primeiros Passos (notebook)](./primeiros_passos.ipynb)
     - [Criando o seu próprio ChatBot](./chatbot.py)
-2. [Disponibilizando novas informações ao modelo](./function_calling.ipynb)
+2. [Disponibilizando novas informações ao modelo (notebook)](./function_calling.ipynb)
 
 
 **Disclaimer**: muito dos conteúdos aqui disponibilizados foram desenvolvidos com apoio dos cursos da [Asimov](https://github.com/asimov-academy).
