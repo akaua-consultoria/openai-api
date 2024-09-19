@@ -1,6 +1,20 @@
 # openai-api
-Usando a API da OpenAI com python
+Repositório dedicado à entender como usar a API da OpenAI com python.
 
-### Arquivos
-- [Primeiros Passos](./primeiros_passos.ipynb)
-- [Disponibilizando novas informações ao modelo](./function_calling.ipynb)
+Se essa é a primeira vez utilizando essa API recomendamos seguir a ordem dos arquivos listados abaixo.
+
+Mas, antes de começar:
+
+## Instalação
+
+```bash
+pip install -r requirements.txt
+```
+
+## Arquivos
+1. [Primeiros Passos (notebook)](./primeiros_passos.ipynb)
+    - [Criando o seu próprio ChatBot](./chatbot.py)
+2. [Disponibilizando novas informações ao modelo](./function_calling.ipynb)
+
+
+**Disclaimer**: muito dos conteúdos aqui disponibilizados foram desenvolvidos com apoio dos cursos da [Asimov](https://github.com/asimov-academy).
