@@ -24,6 +24,7 @@ OPENAI_API_KEY = AQUI-VAI-SUA-KEY-6728DG-EDGHD37
 1. [Primeiros Passos (notebook)](./primeiros_passos.ipynb)
     - [Criando o seu próprio ChatBot](./chatbot.py)
 2. [Disponibilizando novas informações ao modelo (notebook)](./function_calling.ipynb)
+3. [Disponibilizando novas informações com dados estruturados](./usando_dados.ipynb)
 
 
 **Disclaimer**: muito dos conteúdos aqui disponibilizados foram desenvolvidos com apoio dos cursos da [Asimov](https://github.com/asimov-academy).
