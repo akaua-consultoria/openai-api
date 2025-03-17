@@ -1,5 +1,5 @@
 # openai-api
-Repositório dedicado à entender como usar a API da OpenAI com python.
+Repositório dedicado a entender como usar a API da OpenAI com python.
 
 Se essa é a primeira vez utilizando essa API recomendamos seguir a ordem dos arquivos listados abaixo.
 
